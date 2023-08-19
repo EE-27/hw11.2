@@ -5,3 +5,6 @@ def upper(word):
 def title(word):
     """This function wil return inputted word with 1st letter in uppercase"""
     return word.title()
+
+def foo():
+    return True
