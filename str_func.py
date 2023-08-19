@@ -1,3 +1,7 @@
 def upper(word):
-    """This function will return the inputed word in CAPSLOCK"""
+    """This function wil return inputted word with all letters in uppercase"""
     return word.upper()
+
+def title(word):
+    """This function wil return inputted word with 1st letter in uppercase"""
+    return word.title()
